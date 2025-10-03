@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor em formação apaixonado por tecnologia e programação.  
 🌱 Atualmente estudando **JavaScript, CSS e HTML**.  
-🎯 Objetivo: me tornar desenvolvedor front-end. 
+🎯 Objetivo: me tornar desenvolvedor full stack. 
 
 ---
 
