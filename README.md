@@ -20,13 +20,9 @@
 
 ## 📊 Estatísticas do GitHub  
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonycoraiola&layout=compact&theme=radical" alt="Top Langs" />
-
-</div>
-
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycoraiola&show_icons=true&theme=radical)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonycoraiola&theme=radical&hide_border=false)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycoraiola&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycoraiola&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonycoraiola&theme=radical&hide_border=false)  
 
 ---
 
